@@ -168,3 +168,7 @@ Traceback (most recent call last):
 pymysql.err.InternalError: Packet sequence number wrong - got 195 expected 1
 [2021-03-13 06:07:32 +0000] [2180] [INFO] Worker exiting (pid: 2180)
 [2021-03-13 06:07:33 +0000] [2527] [INFO] Booting worker with pid: 2527
+[2021-03-13 08:08:19 +0000] [2097] [INFO] Handling signal: term
+[2021-03-13 08:08:19 +0000] [2181] [INFO] Worker exiting (pid: 2181)
+[2021-03-13 08:08:19 +0000] [2527] [INFO] Worker exiting (pid: 2527)
+[2021-03-13 08:08:20 +0000] [2097] [INFO] Shutting down: Master
